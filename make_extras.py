@@ -16,7 +16,7 @@ STATS = [
     ("600", "Windows VMs, one monolith"),
     ("22", "production AKS clusters"),
     ("40%", "lower compute cost, so far"),
-    ("65", "PRs a week with Claude Code"),
+    ("65", "PRs a week, AI-native"),
 ]
 WIDTH = 720
 ROWS = 7
