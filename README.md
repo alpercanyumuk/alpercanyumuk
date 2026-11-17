@@ -13,7 +13,7 @@ Principal Software Engineer in Ankara, Türkiye. I build platforms as a develope
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alpercanyumuk/alpercanyumuk/main/stats-dark.svg">
-  <img src="https://raw.githubusercontent.com/alpercanyumuk/alpercanyumuk/main/stats-light.svg" alt="600 Windows VMs under the monolith; 22 production AKS clusters; 40% lower compute cost so far; 65 PRs a week with Claude Code" width="100%">
+  <img src="https://raw.githubusercontent.com/alpercanyumuk/alpercanyumuk/main/stats-light.svg" alt="600 Windows VMs, one monolith; 22 production AKS clusters; 40% lower compute cost so far; 65 PRs a week with Claude Code" width="100%">
 </picture>
 
 - **A monolith, carved out step by step.** A .NET Framework 4.8 system on around 600 Windows VMs, moving by strangler fig onto the Linux-based Kubernetes platform my team built: multi-tenant, 100% IaC. Still in progress, and compute cost is already down 40%.
