@@ -1,3 +1,10 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alpercanyumuk/alpercanyumuk/main/grid-dark.svg">
+  <img src="https://raw.githubusercontent.com/alpercanyumuk/alpercanyumuk/main/grid-light.svg" alt="yumuk.me written in a contribution grid" width="100%">
+</picture>
+
+<sub>Not my real contribution graph. Most of my work lives in private repositories.</sub>
+
 ### Hi, I'm Alper
 
 Principal Software Engineer in Ankara, Türkiye. I build platforms as a developer: runtime frameworks, build tooling, and the Kubernetes platform they run on.
@@ -8,8 +15,6 @@ Principal Software Engineer in Ankara, Türkiye. I build platforms as a develope
 - **A runtime standard.** A common .NET runtime framework (NuGet) and an umbrella Helm chart used by every service and team. Probes, PodDisruptionBudgets and priority classes come by default, so a lost node heals with no service impact.
 - **Developer tooling.** An EF Core migrator where adding an object to a DbContext needs only a rebuild: a source generator prepares the DbContext, MSBuild tasks generate the migration-to-version map, and CI guardrails catch stale generated files.
 - **AI-native engineering.** A personal meta-harness on Claude Code that surfaces one decision at a time, so the human stays in control. It lets me ship around 65 PRs a week.
-
-Most of this lives in private repositories.
 
 **Stack:** C#, .NET, Azure, Kubernetes (AKS), Helm, GitOps, Istio, Gateway API, Crossplane, Terraform, Claude Code
 
