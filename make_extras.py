@@ -13,7 +13,7 @@ DIGITS = {
     "-": [".....", ".....", ".....", "XXXXX", ".....", ".....", "....."],
 }
 STATS = [
-    ("600", "Windows VMs under the monolith"),
+    ("600", "Windows VMs, one monolith"),
     ("22", "production AKS clusters"),
     ("40%", "lower compute cost, so far"),
     ("65", "PRs a week with Claude Code"),
