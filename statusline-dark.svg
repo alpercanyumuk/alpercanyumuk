@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 50" width="720" height="50" role="img" aria-label="vim status line: type :help at yumuk.me">
+<style>text{font:12px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}.cur{animation:blink 1.1s steps(1) infinite}@keyframes blink{50%{opacity:0}}@media (prefers-reduced-motion:reduce){.cur{animation:none}}</style>
+<rect width="720" height="24" fill="#161b22"/>
+<rect width="74" height="24" fill="#39d353"/>
+<text x="37.0" y="16" text-anchor="middle" font-weight="700" fill="#0d1117">NORMAL</text>
+<text x="86" y="16" fill="#c9d1d9">alper.md</text>
+<rect x="524" width="1" height="24" fill="#30363d"/>
+<text x="708" y="16" text-anchor="end" fill="#c9d1d9">utf-8 | markdown | 100%</text>
+<text x="12" y="41" fill="#c9d1d9">:help</text>
+<rect class="cur" x="49" y="30" width="7" height="14" fill="#c9d1d9"/>
+<text x="708" y="41" text-anchor="end" fill="#39d353">the full buffer is at yumuk.me</text>
+</svg>
